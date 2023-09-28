@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-27T17:48:06Z" name="Default suite" finished-at="2023-09-27T17:48:57Z" duration-ms="50359">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T17:48:06Z" name="Default test" finished-at="2023-09-27T17:48:57Z" duration-ms="50359">
+      <class name="crm.tastcases.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.HomePageTest@3adcc812]" started-at="2023-09-27T23:18:06Z" name="setup" finished-at="2023-09-27T23:18:28Z" duration-ms="22096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickonContactPage()[pri:0, instance:crm.tastcases.HomePageTest@3adcc812]" started-at="2023-09-27T23:18:28Z" name="clickonContactPage" finished-at="2023-09-27T23:18:31Z" duration-ms="2962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonContactPage -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:crm.tastcases.HomePageTest@3adcc812]" started-at="2023-09-27T23:18:31Z" name="setup" finished-at="2023-09-27T23:18:54Z" duration-ms="22711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickoncalender()[pri:0, instance:crm.tastcases.HomePageTest@3adcc812]" started-at="2023-09-27T23:18:54Z" name="clickoncalender" finished-at="2023-09-27T23:18:57Z" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickoncalender -->
+      </class> <!-- crm.tastcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
